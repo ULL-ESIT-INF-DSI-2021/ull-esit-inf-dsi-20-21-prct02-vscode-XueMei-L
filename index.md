@@ -6,6 +6,7 @@ Asignatura: Desarrollo de Sistemas Informaticos
 Curso: 2020 - 2021
 Autor: XueMei Lin
 ```
+[Acceso a GitHub-Pages](https://ull-esit-inf-dsi-2021.github.io/ull-esit-inf-dsi-20-21-prct02-vscode-XueMei-L/)
 
 ## 1. Introducción
 [Visual Studio Code](https://es.wikipedia.org/wiki/Visual_Studio_Code) es un editor de código fuente desarrollado por Microsoft para Windows, Linux y macOS. Incluye soporte para la [depuración](https://es.wikipedia.org/wiki/Depuración_de_programas), control integrado de [Git](https://es.wikipedia.org/wiki/Git), resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código. Es una herramienta potente para los desarrolladores, por lo tanto nos ayuda a trabajar más cómodamente y fácilmente.
