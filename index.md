@@ -32,7 +32,7 @@ Después de descargarse VSC, descargar las extensiones necesarias:
 
 1. **Remote - SSH**
 
-![image-20210228182934807](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210228182934807.png) 
+![image-20210228182934807](imagenes/image-20210228182934807.png) 
 
 y ahora, pulsamos la tecla **F1** o  **Ctrl + Shift + P**
 
