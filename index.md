@@ -1,4 +1,4 @@
-# <font color=#AF7AC5 >Práctica 2: Instalación y configuración de Visual Studio Code</font>
+# Práctica 2: Instalación y configuración de Visual Studio Code
 
 ```
 Universidad: Universidad de La laguna
@@ -7,16 +7,16 @@ Curso: 2020 - 2021
 Autor: XueMei Lin
 ```
 
-## <font color=#AF7AC5 >1. Introducción</font>
+## 1. Introducción
 [Visual Studio Code](https://es.wikipedia.org/wiki/Visual_Studio_Code) es un editor de código fuente desarrollado por Microsoft para Windows, Linux y macOS. Incluye soporte para la [depuración](https://es.wikipedia.org/wiki/Depuración_de_programas), control integrado de [Git](https://es.wikipedia.org/wiki/Git), resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código. Es una herramienta potente para los desarrolladores, por lo tanto nos ayuda a trabajar más cómodamente y fácilmente.
 
-## <font color=#AF7AC5 >2. Objetivos</font>
+## 2. Objetivo
 
 Respecto a la práctica, vamos a [Desgarcar Visual Studio Code](https://code.visualstudio.com/) y hacer la configuración necesaria para poder trabajar en nuestra asignatura de Desarrollo de Sistemas Informáticos. Más concretamente, vamos a utilizar esta herramienta potente para conocer un poco sobre **TypeScript**, y vamos a crear nuestro primer proyecto en TypeScript.
 
-## <font color=#AF7AC5 >3. Instalación y configuración de Visual Studio Code</font>
+## 3. Instalación y configuración de Visual Studio Code
 
-### <font color=#AF7AC5 >3.1. Instalación y funcionalidad de Visual Studio Code</font>
+### 3.1. Instalación y funcionalidad de Visual Studio Code
 
 En primer lugar tenemos que [instalar VSC](https://code.visualstudio.com/), también podemos utilizar el siguiente comando:
 
@@ -26,7 +26,7 @@ lyz@lyzpc:~$ sudo apt install code
 
 Así ya tenemos nuestro VSC instalado.
 
-### <font color=#AF7AC5 >3.2. Configuración de Visual Studio Code para conectarse a una máquina remota por SSH</font>
+### 3.2. Configuración de Visual Studio Code para conectarse a una máquina remota por SSH
 
 Después de descargarse VSC, descargar las extensiones necesarias:
 
@@ -53,13 +53,13 @@ iaas-dsi2
 
 Efectivamente tenemos conectado a nuestra máquina virtual.
 
-### <font color=#AF7AC5 >3.2. Sesiones colaborativas con Visual Studio Live Share</font>
+### 3.2. Sesiones colaborativas con Visual Studio Live Share
 
 A veces es importante trabajar en equipo, por lo tanto, VSC tiene una extensión que se denomina **Live Share Extension Pack**. La funcionalidad de dicho extensión es trabajar con los compañeros de forma junta y remota. 
 
 Simplemente descargamos la extensión [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) y compartimos el enlace con otros compañeros, así ya podemos iniciar a trabajar en equipo.
 
-### <font color=#AF7AC5 >3.2. Primer proyecto en TypeScript: “Hola Mundo”</font>
+### 3.3. Primer proyecto en TypeScript: “Hola Mundo”
 Para iniciar VSC con nuestro primer proyecto en TypeScript, es recomendable descargar las siguientes extensiones:
 
 * [Vim](https://es.wikipedia.org/wiki/Vim)
@@ -147,13 +147,13 @@ Y por último, ejecutamos el código JavaScript que ha generado a partir del có
 
 
 
-## <font color=#AF7AC5 >4. Conclusiones</font>
+## 4. Conclusiones
 
 Como conclusión, respecto a las extensiones, son muy útiles a la hora de trabajar tanto individualmente como en equipo. Aprenderé más cosas por mi cuenta sobre más extensiones. Además, hemos creado nuestro primer proyecto en TypeScript, es muy interesante todo el proceso. 
 
 
 
-## <font color=#AF7AC5 >5. Bibliografía</font>
+## 5. Bibliografía
 
 Instalar VSC: https://code.visualstudio.com/docs/setup/setup-overview
 
