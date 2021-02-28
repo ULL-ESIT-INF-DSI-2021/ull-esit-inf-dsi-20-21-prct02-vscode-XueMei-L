@@ -38,11 +38,11 @@ y ahora, pulsamos la tecla **F1** o  **Ctrl + Shift + P**
 
 nos va aparecer una venta como:
 
-![image-20210228184214565](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210228184214565.png)
+![image-20210228184214565](imagenes/image-20210228184214565.png)
 
 Como hemos hecho la configuración sobre nuestra máquina local con la máquina virtual, podemos conectar desde directamente con el host **iaas-dsi2**.  Nos llevará a abrir una nueva ventana de VSC. Para comprobar que nos hemos conectado de forma correctamente, podemos observar la zona izquierda inferior:
 
-![image-20210228185144168](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210228185144168.png)
+![image-20210228185144168](imagenes/image-20210228185144168.png)
 
 o haciendo uso en el terminal de VSC el siguiente comando:
 
@@ -78,7 +78,7 @@ Version 4.2.2
 
 Ahora ejecutamos los siguientes pasos para crear el primer proyecto en TypeScript:
 
-![image-20210228191539889](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210228191539889.png)
+![image-20210228191539889](imagenes/image-20210228191539889.png)
 
 Los pasos que hemos seguidos son:
 
@@ -122,7 +122,7 @@ Los que hace este fichero son:
 
 **Empezamos a crear nuestro primer proyecto llamado** ***index.ts***:
 
-![image-20210228194104476](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210228194104476.png)
+![image-20210228194104476](imagenes/image-20210228194104476.png)
 
 Utilizando los comandos que han puesto en la imagen anterior y ponemos el siguiente contenido:
 ```
@@ -139,11 +139,11 @@ Nos generará un directorio ***dist***, donde está nuestro código compilado, p
 ```
 [~/hello-world()]$diff src/index.ts dist/index.js
 ```
-![image-20210228194522350](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210228194522350.png)
+![image-20210228194522350](imagenes/image-20210228194522350.png)
 
 Y por último, ejecutamos el código JavaScript que ha generado a partir del código TypeScript:
 
-![image-20210228194804616](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210228194804616.png)
+![image-20210228194804616](imagenes/image-20210228194804616.png)
 
 
 
